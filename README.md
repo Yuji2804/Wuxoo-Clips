@@ -1,7 +1,4 @@
 # Wuxoo Clips
-
-> Based on PeakCut (MIT License). Rebranded and modified as Wuxoo Clips.
->
 > Guide by [@wuxoo.editz](https://www.instagram.com/wuxoo.editz/) (Instagram).
 > Screenshots ke saath poori guide: folder mein **`SETUP-GUIDE.html`** kholo.
 
