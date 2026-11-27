@@ -57,7 +57,7 @@ Phir start file dobara chalao.
 
 ## Credits aur licence
 
-Wuxoo Clips PeakCut pe based hai, jo MIT License ke tahat open source hai (LICENSE file dekho).
+Wuxoo Clips jo MIT License ke tahat open source hai (LICENSE file dekho).
 Caption fonts (`studio/fonts/`: Anton, Archivo Black, Poppins) SIL Open Font License ke tahat hain.
 
 Sirf wahi videos clip karo jo tumhari hain ya jinki permission hai, aur jahan post karte ho un sites ke rules follow karo.
